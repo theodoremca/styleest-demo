@@ -23,8 +23,8 @@
                             </div>
                             <div class="btn-wrapper text-center">
                                 <base-button type="neutral">
-                                    <img slot="icon" src="img/icons/common/github.svg">
-                                    Github
+                                    <img slot="icon" src="img/icons/common/facebook.png">
+                                    Facebook
                                 </base-button>
 
                                 <base-button type="neutral">
